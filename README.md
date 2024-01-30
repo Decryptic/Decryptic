@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Decryptic
+- 👋 Hi, I’m @Decryptic (Gage)
 - 👀 I’m interested in mathematics.
 - 🌱 I’m currently learning linear algebra and assembly language.
 - 💞️ I’m looking to collaborate on open source software.
